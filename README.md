@@ -1,5 +1,8 @@
 # Social Media & Self-Esteem Survey
 
+## Live Project
+https://q-minal.github.io/social-media-self-esteem-survey/
+
 ## Overview
 This project explores the relationship between daily social media use and self-esteem in 16–18 year olds.
 
@@ -9,6 +12,3 @@ This project explores the relationship between daily social media use and self-e
 - Accessibility (labels and form validation)
 - User input validation
 - Git & GitHub version control
-
-## Live Project
-[Click here to view the live survey](https://yourusername.github.io/social-media-self-esteem-survey/)
