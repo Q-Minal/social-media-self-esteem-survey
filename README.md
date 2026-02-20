@@ -11,4 +11,3 @@ This project explores the relationship between daily social media use and self-e
 - Semantic HTML
 - Accessibility (labels and form validation)
 - User input validation
-- Git & GitHub version control
